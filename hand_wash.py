@@ -1,2 +1,2 @@
-for i in range(20):
-    print("Wash your hands")
+for i in range(100):
+    print("Me debo lavar las manos por 20 segundos")
